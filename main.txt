@@ -10,12 +10,10 @@ Settings
 	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
 Layout
 	use default
-Resources
-	*thing1|thing1s
-		name:name
-		desc:it exists
-		text:text
-		icon:https://via.placeholder.com/75.png?text=Background
-		cost:17 atoms
-	
+Buttons
+	*moleculeButton
+		name:Make a Molecule
+		desc:Click this molecule to get more molecules!
+		on click:anim icon wobble
+		on click:yield 1 molecule
 	
