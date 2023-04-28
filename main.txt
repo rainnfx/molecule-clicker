@@ -8,3 +8,5 @@ Let's make a game!
 Settings
 	background:https://via.placeholder.com/75.png?text=Background
 	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
+Layout
+	use default
