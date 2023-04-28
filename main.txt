@@ -9,4 +9,4 @@ name:Molecule Clicker
   
   Settings
   
-  background:
+  background:https://via.placeholder.com/75.png?text=Background
