@@ -5,3 +5,8 @@ CSS
     font-family:"Times New Roman",Times,serif;
     color:black;
   }
+
+#game.filtersOn .thing.cantAfford.notOwned
+  {
+    filter:blur(3px);
+  }
