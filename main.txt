@@ -10,3 +10,10 @@ Settings
 	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
 Layout
 	use default
+Things
+	*thing1
+		name:name
+		desc:it exists
+		text:text
+		icon:https://via.placeholder.com/75.png?text=Background
+	
