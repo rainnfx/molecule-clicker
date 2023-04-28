@@ -7,4 +7,4 @@ Let's make a game!
 	version:0
 Settings
 	background:https://via.placeholder.com/75.png?text=Background
-	stylesheet:
+	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
