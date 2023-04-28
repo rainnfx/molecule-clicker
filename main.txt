@@ -17,4 +17,10 @@ Buttons
 		desc:Click this molecule to get more molecules!
 		on click:anim icon wobble
 		on click:yield 1 molecule
-	
+Resources
+	*molecule
+		name:Make a molecule
+		desc:These are your molecules! You can use them to purchase things. Your goal is to have as many molecules as possible!
+		icon:icons[0,0]
+		class:noBackground
+		show earned
