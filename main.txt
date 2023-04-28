@@ -6,7 +6,7 @@ Let's make a game!
 	updated:28/4/2023
 	version:0
 Settings
-	background:https://via.placeholder.com/75.png?text=Background
+	background: https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Background.JPG
 	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
 Layout
 	use default
