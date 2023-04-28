@@ -16,4 +16,6 @@ Things
 		desc:it exists
 		text:text
 		icon:https://via.placeholder.com/75.png?text=Background
+		cost:17 atoms
+	
 	
