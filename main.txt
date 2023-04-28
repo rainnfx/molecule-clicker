@@ -1,4 +1,4 @@
-Okay, this might be okay.
+Let's make a game!
 
 name:Molecule Clicker
 	author:Matteo
