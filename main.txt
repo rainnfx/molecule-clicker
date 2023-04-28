@@ -10,7 +10,7 @@ Settings
 	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
 Layout
 	use default
-Things
+Resources
 	*thing1
 		name:name
 		desc:it exists
