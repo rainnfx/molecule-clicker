@@ -8,7 +8,7 @@ Let's make a game!
 Settings
 	background: https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Background.JPG
 	stylesheet:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/styles.css
-	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	spritesheet:icons, 48 by 48, https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Molecule.PNG
 Layout
 	use default
 Buttons
