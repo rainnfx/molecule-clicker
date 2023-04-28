@@ -11,7 +11,7 @@ Settings
 Layout
 	use default
 Resources
-	*thing1
+	*thing1|thing1s
 		name:name
 		desc:it exists
 		text:text
