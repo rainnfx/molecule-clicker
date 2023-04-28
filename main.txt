@@ -21,6 +21,6 @@ Resources
 	*molecule
 		name:Make a molecule
 		desc:These are your molecules! You can use them to purchase things. Your goal is to have as many molecules as possible!
-		icon:icons[0,0]
+		icon:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Molecule.PNG
 		class:noBackground
 		show earned
