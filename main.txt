@@ -1,12 +1,7 @@
 Let's make a game!
-
-name:Molecule Clicker
-	author:Matteo
-  desc: It's like Cookie Clicker, but its with Molecules instead so this works as a school project.
-  created:28/04/2023
-  updated:28/04/2023
-  version:0
-  
-  Settings
-  
-  background:https://via.placeholder.com/75.png?text=Background
+	name:Molecule Clicker
+	by:Matteo
+	desc:This is a simple game for a school project, hope you enjoy it!!
+	created:28/4/2023
+	updated:28/4/2023
+	version:0
