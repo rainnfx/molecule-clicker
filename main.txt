@@ -14,10 +14,11 @@ Layout
 Buttons
 	*moleculeButton
 		name:Make a Molecule
-		icon:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Molecule.PNG
 		desc:Click this molecule to get more molecules!
 		on click:anim icon wobble
 		on click:yield 1 molecule
+		icon:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Molecule.PNG
+		no text
 Resources
 	*molecule
 		name:Make a molecule
