@@ -19,6 +19,10 @@ Buttons
 		on click:yield 1 molecule
 		icon:https://raw.githubusercontent.com/rainnfx/molecule-clicker/main/assets/Molecule.PNG
 		no text
+		class:bigButton hasFlares
+		icon class:shadowed
+		tooltip origin:bottom
+		tooltip class:red
 Resources
 	*molecule
 		name:Make a molecule
